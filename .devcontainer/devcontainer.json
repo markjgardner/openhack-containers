@@ -29,5 +29,9 @@
 		"ms-vscode.azurecli",
 		"ms-azuretools.vscode-docker",
 		"ms-kubernetes-tools.vscode-kubernetes-tools"
-	]
+	],
+	"containerEnv": {
+		"SA_PASSWORD": "$upe3r$ecret",
+		"HACK_NETWORK": "tripinsights"
+	}
 }
